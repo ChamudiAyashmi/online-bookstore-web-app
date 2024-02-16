@@ -1,0 +1,25 @@
+.aboutImage {
+  width: 100vw;
+  height: 500px;
+}
+
+.imageDiv {
+  position: relative;
+}
+
+.imageOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  gap: 10px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: 65px;
+}

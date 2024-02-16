@@ -1,0 +1,15 @@
+.input-divs input {
+  border: 1px solid gray;
+  padding: 8px;
+  font-family: serif;
+}
+.input-divs textarea {
+  border: 1px solid gray;
+  padding: 8px;
+  font-family: serif;
+}
+.btn-uploadBook {
+  background-color: black;
+  color: white;
+  font-family: serif;
+}

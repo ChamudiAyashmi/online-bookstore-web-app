@@ -1,0 +1,25 @@
+.banner {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #f1f1f1;
+  height: 500px;
+}
+.btn-getStarted {
+  margin-top: 40px;
+  background: black;
+  width: 150px;
+  height: 45px;
+  color: white;
+}
+.btn-getStarted:hover {
+  background: transparent;
+  color: black;
+  border: 1px solid black;
+}
+.img1 {
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+}
+.img2 {
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+}

@@ -1,0 +1,33 @@
+.main {
+  align-items: center;
+  justify-content: center;
+}
+.main a {
+  text-decoration: underline;
+}
+.main a:hover {
+  color: red;
+}
+input {
+  border: 1px solid gray;
+  width: 100%;
+  height: 32px;
+  border-radius: 5px;
+  padding: 5px;
+  outline: none;
+  font-family: serif;
+}
+.signUp {
+  width: 750px;
+  height: 500px;
+}
+
+.btn-signUp {
+  width: 100px;
+  height: 30px;
+}
+.btn-signUp:hover {
+  background: transparent;
+  color: black;
+  border: 1px solid black;
+}
